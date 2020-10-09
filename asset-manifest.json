@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/voting/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/voting/static/js/main.9b9a94fd.chunk.js",
+    "main.js.map": "/voting/static/js/main.9b9a94fd.chunk.js.map",
+    "runtime-main.js": "/voting/static/js/runtime-main.f0d70bed.js",
+    "runtime-main.js.map": "/voting/static/js/runtime-main.f0d70bed.js.map",
+    "static/css/2.0c2b7c2d.chunk.css": "/voting/static/css/2.0c2b7c2d.chunk.css",
+    "static/js/2.e971f3cf.chunk.js": "/voting/static/js/2.e971f3cf.chunk.js",
+    "static/js/2.e971f3cf.chunk.js.map": "/voting/static/js/2.e971f3cf.chunk.js.map",
+    "index.html": "/voting/index.html",
+    "precache-manifest.e53d2435b3c8549220ca30e98a2fa73f.js": "/voting/precache-manifest.e53d2435b3c8549220ca30e98a2fa73f.js",
+    "service-worker.js": "/voting/service-worker.js",
+    "static/css/2.0c2b7c2d.chunk.css.map": "/voting/static/css/2.0c2b7c2d.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/voting/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e971f3cf.chunk.js.LICENSE.txt": "/voting/static/js/2.e971f3cf.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/voting/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d70bed.js",
+    "static/css/2.0c2b7c2d.chunk.css",
+    "static/js/2.e971f3cf.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9b9a94fd.chunk.js"
+  ]
+}
